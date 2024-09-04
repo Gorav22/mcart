@@ -1,27 +1,19 @@
 # MCart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2. This is my first Angular project so its to basic and i only add one login credentials that is admin. so if you wanted to run it then you can login as admin and password as admin.
 
-## Development server
+# Features
+- You can order mobiles and laptops.
+- made using [Angular CLI](https://github.com/angular/angular-cli)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# how to run on your own pc
+- simply clone the repo using
+  git clone https://github.com/Gorav22/mcart/
+- run npm install but remember to install angular first by
+  npm install -g @angular/cli
+- now run
+  npm install
+- now launch the server using
+  ng serve
+  or
+  ng serve --open
